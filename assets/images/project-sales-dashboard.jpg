@@ -1,0 +1,67 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="600" height="400" fill="#F9FAFB"/>
+  
+  <!-- Dashboard Header -->
+  <rect width="600" height="60" fill="#6366F1"/>
+  <text x="20" y="38" font-family="Arial" font-size="20" font-weight="bold" fill="white">Sales Performance Analytics</text>
+  <circle cx="560" cy="30" r="8" fill="#10B981"/>
+  <text x="535" y="35" font-family="Arial" font-size="11" fill="white">Live</text>
+  
+  <!-- KPI Cards -->
+  <rect x="20" y="80" width="135" height="90" rx="8" fill="white" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="30" y="100" font-family="Arial" font-size="11" fill="#6B7280">Total Revenue</text>
+  <text x="30" y="135" font-family="Arial" font-size="28" font-weight="bold" fill="#6366F1">$2.4M</text>
+  <text x="30" y="155" font-family="Arial" font-size="10" fill="#10B981">▲ 12.5%</text>
+  
+  <rect x="170" y="80" width="135" height="90" rx="8" fill="white" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="180" y="100" font-family="Arial" font-size="11" fill="#6B7280">Units Sold</text>
+  <text x="180" y="135" font-family="Arial" font-size="28" font-weight="bold" fill="#8B5CF6">12.4K</text>
+  <text x="180" y="155" font-family="Arial" font-size="10" fill="#10B981">▲ 8.2%</text>
+  
+  <rect x="320" y="80" width="130" height="90" rx="8" fill="white" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="330" y="100" font-family="Arial" font-size="11" fill="#6B7280">Avg Order Value</text>
+  <text x="330" y="135" font-family="Arial" font-size="28" font-weight="bold" fill="#F59E0B">$193</text>
+  <text x="330" y="155" font-family="Arial" font-size="10" fill="#10B981">▲ 4.1%</text>
+  
+  <rect x="465" y="80" width="115" height="90" rx="8" fill="white" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="475" y="100" font-family="Arial" font-size="11" fill="#6B7280">Customers</text>
+  <text x="475" y="135" font-family="Arial" font-size="28" font-weight="bold" fill="#10B981">8.2K</text>
+  <text x="475" y="155" font-family="Arial" font-size="10" fill="#10B981">▲ 15.3%</text>
+  
+  <!-- Line Chart -->
+  <rect x="20" y="190" width="360" height="190" rx="8" fill="white" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="30" y="215" font-family="Arial" font-size="14" font-weight="bold" fill="#1F2937">Revenue Trend (12 Months)</text>
+  <!-- Grid lines -->
+  <line x1="40" y1="250" x2="360" y2="250" stroke="#E5E7EB" stroke-width="1"/>
+  <line x1="40" y1="290" x2="360" y2="290" stroke="#E5E7EB" stroke-width="1"/>
+  <line x1="40" y1="330" x2="360" y2="330" stroke="#E5E7EB" stroke-width="1"/>
+  <!-- Line -->
+  <polyline points="40,340 70,330 100,320 130,310 160,300 190,285 220,275 250,270 280,265 310,250 340,245 360,240" 
+            fill="none" stroke="#6366F1" stroke-width="3"/>
+  <circle cx="360" cy="240" r="5" fill="#6366F1"/>
+  
+  <!-- Regional Performance -->
+  <rect x="400" y="190" width="180" height="190" rx="8" fill="white" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="410" y="215" font-family="Arial" font-size="14" font-weight="bold" fill="#1F2937">Top Regions</text>
+  
+  <text x="410" y="245" font-family="Arial" font-size="12" fill="#6B7280">North America</text>
+  <rect x="410" y="250" width="140" height="15" fill="#E5E7EB" rx="3"/>
+  <rect x="410" y="250" width="120" height="15" fill="#6366F1" rx="3"/>
+  <text x="535" y="262" font-family="Arial" font-size="10" fill="#1F2937">45%</text>
+  
+  <text x="410" y="285" font-family="Arial" font-size="12" fill="#6B7280">Europe</text>
+  <rect x="410" y="290" width="140" height="15" fill="#E5E7EB" rx="3"/>
+  <rect x="410" y="290" width="95" height="15" fill="#8B5CF6" rx="3"/>
+  <text x="535" y="302" font-family="Arial" font-size="10" fill="#1F2937">32%</text>
+  
+  <text x="410" y="325" font-family="Arial" font-size="12" fill="#6B7280">Asia Pacific</text>
+  <rect x="410" y="330" width="140" height="15" fill="#E5E7EB" rx="3"/>
+  <rect x="410" y="330" width="60" height="15" fill="#10B981" rx="3"/>
+  <text x="535" y="342" font-family="Arial" font-size="10" fill="#1F2937">18%</text>
+  
+  <text x="410" y="360" font-family="Arial" font-size="12" fill="#6B7280">Other</text>
+  <rect x="410" y="365" width="140" height="15" fill="#E5E7EB" rx="3"/>
+  <rect x="410" y="365" width="15" height="15" fill="#F59E0B" rx="3"/>
+  <text x="535" y="377" font-family="Arial" font-size="10" fill="#1F2937">5%</text>
+</svg>
